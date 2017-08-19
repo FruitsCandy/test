@@ -2,3 +2,12 @@ php 관련개발 환경을 세팅하는데 한글은 못써먹겠네
 XAMPP
 공식사이트
 https://www.apachefriends.org/index.html
+
+apache,php,mysql 설치
+
+
+
+sqldeveloper 다운로드
+
+maria DB 에서 제공하는 커넥터는 인식실패
+mysql connector 로 대체함
